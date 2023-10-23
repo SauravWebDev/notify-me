@@ -1,5 +1,5 @@
 package Observer;
 
-public interface StockObserver {
+public interface TemperatureObserver {
     public void onchange();
 }
